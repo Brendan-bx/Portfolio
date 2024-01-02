@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import me from '../../assets/me-about.jpg'
+import me from '../../assets/zoro-one-piece-sourire.webp'
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
